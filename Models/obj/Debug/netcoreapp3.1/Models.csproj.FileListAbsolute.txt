@@ -1,0 +1,12 @@
+C:\Code\Radiomarket\RadioMarket.UserService\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Code\Radiomarket\RadioMarket.UserService\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Code\Radiomarket\RadioMarket.UserService\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Code\Radiomarket\RadioMarket.UserService\Models\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Code\Radiomarket\RadioMarket.UserService\Models\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Code\Radiomarket\RadioMarket.UserService\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Code\Radiomarket\RadioMarket.UserService\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Code\Radiomarket\RadioMarket.UserService\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Code\Radiomarket\RadioMarket.UserService\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Code\Radiomarket\RadioMarket.UserService\Models\obj\Debug\netcoreapp3.1\Models.csproj.CopyComplete
+C:\Code\Radiomarket\RadioMarket.UserService\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Code\Radiomarket\RadioMarket.UserService\Models\obj\Debug\netcoreapp3.1\Models.pdb
