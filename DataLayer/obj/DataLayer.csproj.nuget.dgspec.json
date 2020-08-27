@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj": {}
+    "C:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "c:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj": {
+    "C:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "c:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj",
+        "projectPath": "C:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "c:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\obj\\",
+        "outputPath": "C:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

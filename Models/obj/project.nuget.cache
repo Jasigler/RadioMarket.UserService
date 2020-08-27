@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z2TlGzxlXjFsX5g3QZMCibm7UUi6GI7YMgORwdqfzqB12mhYlt7tUOiv8UaRCjIT1PtZezK+fUYAZB7KGfV5Yg==",
+  "dgSpecHash": "FrLQuyl1ZAaAs20Iy09cPCgduzFqiArPv0uisGMDp8Lq/CMm6Ex/xvMg7k8AKb5nNoag/8yBEYg7MSC/nkJpmQ==",
   "success": true,
-  "projectFilePath": "c:\\Code\\Radiomarket\\RadioMarket.UserService\\Models\\Models.csproj",
+  "projectFilePath": "C:\\Code\\Radiomarket\\RadioMarket.UserService\\Models\\Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

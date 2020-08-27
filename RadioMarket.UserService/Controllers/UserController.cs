@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Threading.Tasks;
 using DataLayer.DTOs;
@@ -34,6 +35,13 @@ namespace RadioMarket.UserService.Controllers
             else return Ok(userData);
         }
 
+        [HttpGet("count")]
+        public async Task<ActionResult<int>> GetUserCount()
+        {
+            var count = await _repository.GetUserCount();
+            return Ok(count);
+        }
+
         [HttpPost]
         public async Task<ActionResult> CreateNewUser([FromBody] SignupDTO newUserInfo)
         {
@@ -46,7 +54,7 @@ namespace RadioMarket.UserService.Controllers
             else return BadRequest(result);
         }
 
-        [HttpPost("Verify")]
+        [HttpPost("verify")]
         public async Task<ActionResult<ReqResult>> VerifyPassword([FromBody] IdentityDTO userIdentity)
         {
             var result = await _repository.VerifyUser(userIdentity);

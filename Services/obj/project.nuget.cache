@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4WHoGDNcuFD4r+DLqdJC/a4n7+DN3HsPQOeI5b4fOy971sQAeZXY7piK7yynCgDB7VXReyKN15ZNFCsJLotGcA==",
+  "dgSpecHash": "DvI1356L/WaoHS561yfp8KoAv6ljQGNsYTXE1et7z8VUmMDDcPM0U2L9wO9kT3cUF/umEhKbEKjTAcFMdxL1fg==",
   "success": true,
-  "projectFilePath": "c:\\Code\\Radiomarket\\RadioMarket.UserService\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Code\\Radiomarket\\RadioMarket.UserService\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jason\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

@@ -91,8 +91,11 @@ namespace Services
                 return ReqResult.Ok;
 
             } else return ReqResult.BadPassword;
+        }
 
-            
+        public async Task<int> GetUserCount()
+        {
+            return await _context.Users.CountAsync();
         }
 
         public bool Save()

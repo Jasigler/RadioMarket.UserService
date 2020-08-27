@@ -13,6 +13,7 @@ namespace Models.Interfaces
         public Task<ReqResult> CreateNewUser(SignupDTO newUserInfo);
         public Task<ReqResult> VerifyUser(IdentityDTO userLoginInfo);
         public Task<UserInfoDTO> GetUserInfo(int userId);
+        public Task<int> GetUserCount();
         
 
     }

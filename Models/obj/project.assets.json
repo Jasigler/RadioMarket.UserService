@@ -660,11 +660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Code\\Radiomarket\\RadioMarket.UserService\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Code\\Radiomarket\\RadioMarket.UserService\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "c:\\Code\\Radiomarket\\RadioMarket.UserService\\Models\\Models.csproj",
+      "projectPath": "C:\\Code\\Radiomarket\\RadioMarket.UserService\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "c:\\Code\\Radiomarket\\RadioMarket.UserService\\Models\\obj\\",
+      "outputPath": "C:\\Code\\Radiomarket\\RadioMarket.UserService\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -680,8 +680,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "c:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj"
+            "C:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "C:\\Code\\Radiomarket\\RadioMarket.UserService\\DataLayer\\DataLayer.csproj"
             }
           }
         }
@@ -709,7 +709,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
